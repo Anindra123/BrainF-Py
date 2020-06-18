@@ -3,8 +3,8 @@ An interpreter for the esoteric programming language ```Brainf**k``` written in 
 
 # Build
 ``````
-clone the repository
-cd Brainf-Py/
+git clone https://github.com/Anindra123/BrainF-Py.git
+cd BrainF-Py/
 chmod u+x brainfu.py
 ``````
 
